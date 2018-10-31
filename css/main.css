@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+.profile{
+  margin-top: 22px;;
+}
+.btn{
+  width:auto;
+  border-radius:0;
+}
+.feedsection{
+  margin-top: 20px;
+}
+.imagesandname{
+  display: flex;
+  justify-content: space-around;
+
+}
+#postimages{
+  width:100%;
+  height: auto;
+  margin:10 auto;
+  text-align: center;
+  vertical-align: middle;
+}
